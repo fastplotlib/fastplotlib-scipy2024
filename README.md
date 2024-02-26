@@ -1,5 +1,7 @@
 # fastplotlib-scipy2024
 
+All materials for the `pygfx` and `fastplotlib` SciPy 2024 Tutorial.
+
 ## Installation
 
 ### PyPi Install
