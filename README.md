@@ -4,6 +4,8 @@ All materials for the `pygfx` and `fastplotlib` SciPy 2024 Tutorial.
 
 ## Installation
 
+### JupyterHub
+
 We will be using a JupyterHub that's been set up for this tutorial. If you would like to run the tutorial locally you may use the instructions below. We recommend testing your installation before the start of the tutorial :) .
 
 ### PyPi Install
