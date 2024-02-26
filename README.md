@@ -1,6 +1,5 @@
 # fastplotlib-scipy2024
 
----
 ## Installation
 
 ### PyPi Install
