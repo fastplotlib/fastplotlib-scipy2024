@@ -8,7 +8,7 @@ All materials for the `pygfx` and `fastplotlib` SciPy 2024 Tutorial.
 
 We will be using a Flatiron Institute Binder that's been set up for this tutorial. https://binder.flatironinstitute.org/
 
-Access instructions for workshop attendees will be posted closer to the tutorial date.
+Access instructions for attendees will be posted closer to the tutorial date.
 
 If you would like to run the tutorial locally you may use the instructions below. We recommend testing your installation before the start of the tutorial :) .
 
