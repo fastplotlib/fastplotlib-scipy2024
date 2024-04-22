@@ -54,7 +54,7 @@ git clone https://github.com/pygfx/pygfx.git
 cd pygfx
 
 # if you use a venv, create and activate it
-pip install -e .[dev,docs,examples]
+pip install -e ".[dev,docs,examples]"
 ```
 > **NOTE**
 > `fastplotlib` uses [git-lfs](https://git-lfs.com/) for storing large files, so you will need to [install it](https://github.com/git-lfs/git-lfs#installing) before cloning the repo.
